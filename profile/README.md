@@ -16,18 +16,28 @@
 
 ## 🧩 About Us
 
-**ZAYNIX PRIME** is a next-generation development organization  
-focused on delivering **high-quality, production-ready software solutions**.
+**ZAYNIX PRIME** is a next-generation software development organization  
+founded and owned by **ROME K XD**, focused on building **production-ready, scalable, and secure solutions**.
 
-We believe in **clean architecture, performance, and long-term maintainability**.
+The organization follows a **quality-first engineering mindset**, ensuring long-term maintainability and performance.
 
 > 💡 *“Engineering reliable software for the modern web.”*
 
-### What we do:
+### Core Expertise:
 - 🌐 Full-Stack Web Development  
 - ⚙️ API Design & System Architecture  
 - 🧠 AI-Powered Tools & Automation  
 - 🔒 Security-First Engineering  
+
+---
+
+## 🧑‍💼 Ownership & Leadership
+
+- **Owner & Founder:** **ROME K XD**  
+- **GitHub:** https://github.com/ROMEKTRICKS  
+
+ZAYNIX PRIME is independently operated and strategically led by **ROME K XD**,  
+with a strong focus on clean code, system design, and open-source innovation.
 
 ---
 
@@ -45,22 +55,23 @@ We believe in **clean architecture, performance, and long-term maintainability**
 ### 🔹 ZAYNIX Tooling Suite *(Flagship)*
 > *Fast, scalable, and developer-focused solutions.*
 
-Modern full-stack applications built with:
+A collection of modern applications and tools engineered by **ROME K XD**,  
+built using:
 - **Next.js**
 - **TypeScript**
 - **Tailwind CSS**
 - **PostgreSQL & Prisma**
 
-Optimized for **performance, security, and clean UX**.
+Designed for **performance, security, and developer experience**.
 
 ---
 
 ## 🧾 Official Links
 
-- 🌎 **Website:** https://zaynix-prime.zaynix.biz.id  
+- 🌎 **Website:** https://.zaynix.biz.id  
 - 💻 **GitHub Organization:** https://github.com/Zaynix-prime  
-- 📦 **Main Repository:** https://github.com/Zaynix-prime  
-- 🧑‍💻 **Founder / Lead Developer:** https://github.com/ROMEKTRICKS  
+- 🧑‍💻 **Owner / Founder GitHub:** https://github.com/ROMEKTRICKS  
+- 📦 **Main Repositories:** https://github.com/Zaynix-prime  
 
 ---
 
@@ -75,11 +86,11 @@ Optimized for **performance, security, and clean UX**.
 
 ## 🤝 Collaboration & Contact
 
-📩 **support@zaynixprime.com** *(replace if needed)*  
-💬 Open for collaborations, open-source contributions, and partnerships.
+📩 **support@zaynixprime.com** *(replace if required)*  
+💬 Open for open-source contributions, collaborations, and partnerships.
 
 ---
 
 <p align="center">
-  <b>© 2025 ZAYNIX PRIME — Engineered with precision.</b>
+  <b>© 2025 ZAYNIX PRIME — Founded & Owned by ROMEK XD.</b>
 </p>
